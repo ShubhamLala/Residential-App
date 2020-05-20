@@ -6,4 +6,4 @@ The user id for admin is 1234 and the password is 'lala'.
 Below are some of the screenshots from the project :-
 
 1. Log-In page :-
-https://user-images.githubusercontent.com/42066791/82403632-eb264f00-9a7c-11ea-9a33-d3f1af9f043b.jpg
+![Log-In](https://user-images.githubusercontent.com/42066791/82403632-eb264f00-9a7c-11ea-9a33-d3f1af9f043b.jpg)
